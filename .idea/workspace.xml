@@ -2,262 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c59a1693-0094-4edd-a639-d131a6a6f3f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/container.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/phpcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Argument/ArgumentResolverInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Argument/ArgumentResolverTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Argument/ClassName.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Argument/ClassNameInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Argument/RawArgument.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Argument/RawArgumentInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Container.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/ContainerAwareInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/ContainerAwareTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Definition/Definition.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Definition/DefinitionAggregate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Definition/DefinitionAggregateInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Definition/DefinitionInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Exception/ContainerException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Exception/NotFoundException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Inflector/Inflector.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Inflector/InflectorAggregate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Inflector/InflectorAggregateInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/Inflector/InflectorInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/ReflectionContainer.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/ServiceProvider/AbstractServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/ServiceProvider/BootableServiceProviderInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/ServiceProvider/ServiceProviderAggregate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/ServiceProvider/ServiceProviderAggregateInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/container/src/ServiceProvider/ServiceProviderInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/2.x/concepts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/2.x/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/2.x/strategies.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/2.x/usage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/3.x/concepts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/3.x/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/3.x/strategies.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/3.x/usage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/4.x/controllers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/4.x/dependency-injection.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/4.x/http.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/4.x/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/4.x/middleware.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/4.x/routes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/4.x/strategies.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/4.x/usage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/404.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_data/project.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_data/releases.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_includes/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_includes/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_includes/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_includes/tiles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_layouts/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_layouts/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/base/_page.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/base/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/components/_box.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/components/_button.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/components/_contact-method.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/components/_form.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/components/_icon.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/components/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/components/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/components/_section.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/components/_spotlights.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/components/_table.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/components/_tiles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/layout/_banner.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/layout/_contact.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/layout/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/layout/_header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/layout/_main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/layout/_menu.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/layout/_wrapper.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/libs/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/libs/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/libs/_skel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/_sass/libs/_vars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/css/ie8.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/css/ie9.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/css/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/css/pygments.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/images/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/images/code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/js/ie/.directory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/js/ie/backgroundsize.min.htc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/js/ie/html5shiv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/js/ie/respond.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/js/jquery.scrollex.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/js/jquery.scrolly.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/js/skel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/assets/js/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/unstable/controllers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/unstable/dependency-injection.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/unstable/http.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/unstable/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/unstable/middleware.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/unstable/routes.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/unstable/strategies.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/docs/unstable/usage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/phpcs.xml.dist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/ContainerAwareInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/ContainerAwareTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Dispatcher.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/BadRequestException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/ConflictException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/ExpectationFailedException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/ForbiddenException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/GoneException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/HttpExceptionInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/ImATeapotException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/LengthRequiredException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/MethodNotAllowedException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/NotAcceptableException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/NotFoundException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/PreconditionFailedException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/PreconditionRequiredException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/TooManyRequestsException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/UnauthorizedException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/UnavailableForLegalReasonsException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/UnprocessableEntityException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Http/Exception/UnsupportedMediaException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Middleware/MiddlewareAwareInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Middleware/MiddlewareAwareTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Route.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/RouteCollectionInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/RouteCollectionTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/RouteConditionHandlerInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/RouteConditionHandlerTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/RouteGroup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Router.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Strategy/AbstractStrategy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Strategy/ApplicationStrategy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Strategy/JsonStrategy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Strategy/StrategyAwareInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Strategy/StrategyAwareTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/league/route/src/Strategy/StrategyInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/.hhconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/FastRoute.hhi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/psalm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/BadRouteException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/CharCountBased.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/GroupCountBased.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/GroupPosBased.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/MarkBased.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/DataGenerator/RegexBasedAbstract.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/CharCountBased.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/GroupCountBased.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/GroupPosBased.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/MarkBased.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Dispatcher/RegexBasedAbstract.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/Route.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/RouteCollector.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/RouteParser.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/RouteParser/Std.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/src/functions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/CharCountBasedTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/DispatcherTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/GroupCountBasedTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/GroupPosBasedTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/Dispatcher/MarkBasedTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/HackTypechecker/HackTypecheckerTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/HackTypechecker/fixtures/all_options.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/HackTypechecker/fixtures/empty_options.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/HackTypechecker/fixtures/no_options.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/RouteCollectorTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/RouteParser/StdTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/nikic/fast-route/test/bootstrap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/container/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/container/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/container/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/container/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/container/src/ContainerExceptionInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/container/src/ContainerInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/container/src/NotFoundExceptionInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-factory/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-factory/.pullapprove.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-factory/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-factory/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-factory/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-factory/src/RequestFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-factory/src/ResponseFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-factory/src/ServerRequestFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-factory/src/StreamFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-factory/src/UploadedFileFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-factory/src/UriFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/MessageInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/RequestInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/ResponseInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/ServerRequestInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/StreamInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/UploadedFileInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-message/src/UriInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-server-handler/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-server-handler/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-server-handler/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-server-handler/src/RequestHandlerInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-server-middleware/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-server-middleware/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-server-middleware/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/psr/http-server-middleware/src/MiddlewareInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mini-framework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mini-framework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bootstrap/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_files.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/container.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/container.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -298,7 +54,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -323,7 +79,12 @@
       <option name="presentableId" value="Default" />
       <updated>1579463810005</updated>
       <workItem from="1579463811922" duration="177000" />
-      <workItem from="1579464600594" duration="7224000" />
+      <workItem from="1579464600594" duration="8033000" />
+      <workItem from="1579588877692" duration="2326000" />
+      <workItem from="1579647119542" duration="490000" />
+      <workItem from="1579683991191" duration="3207000" />
+      <workItem from="1579900166252" duration="942000" />
+      <workItem from="1580088382350" duration="3053000" />
     </task>
     <servers />
   </component>
@@ -334,21 +95,28 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="735" y="431" width="440" height="187" key="NewPhpFileDialog" timestamp="1579467381400">
+    <state x="735" y="431" width="440" height="187" key="NewPhpFileDialog" timestamp="1579589342996">
       <screen x="0" y="0" width="1920" height="1046" />
     </state>
-    <state x="735" y="431" width="440" height="187" key="NewPhpFileDialog/0.0.1920.1046@0.0.1920.1046" timestamp="1579467381400" />
-    <state x="340" y="70" width="1239" height="909" key="SettingsEditor" timestamp="1579467360497">
-      <screen x="0" y="0" width="1920" height="1046" />
+    <state x="735" y="431" width="440" height="187" key="NewPhpFileDialog/0.0.1920.1046@0.0.1920.1046" timestamp="1579589342996" />
+    <state x="276" y="89" width="1239" height="909" key="SettingsEditor" timestamp="1580089984645">
+      <screen x="0" y="34" width="1920" height="1046" />
     </state>
     <state x="340" y="70" width="1239" height="909" key="SettingsEditor/0.0.1920.1046@0.0.1920.1046" timestamp="1579467360497" />
-    <state x="964" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1579464608804">
-      <screen x="0" y="0" width="1920" height="1046" />
+    <state x="276" y="89" width="1239" height="909" key="SettingsEditor/0.34.1920.1046@0.34.1920.1046" timestamp="1580089984645" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1580089677614">
+      <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="964" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1046@0.0.1920.1046" timestamp="1579464608804" />
-    <state x="946" y="11" width="840" height="1034" key="search.everywhere.popup" timestamp="1579473936891">
-      <screen x="0" y="0" width="1920" height="1046" />
+    <state width="623" height="498" key="SwitcherDM/0.34.1920.1046@0.34.1920.1046" timestamp="1580089677614" />
+    <state x="729" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1581527533714">
+      <screen x="0" y="34" width="1920" height="1046" />
     </state>
-    <state x="946" y="11" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1046@0.0.1920.1046" timestamp="1579473936891" />
+    <state x="729" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1046@0.0.1920.1046" timestamp="1579900173875" />
+    <state x="729" y="329" key="com.intellij.ide.util.TipDialog/0.34.1920.1046@0.34.1920.1046" timestamp="1581527533714" />
+    <state x="946" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1580089579870">
+      <screen x="0" y="34" width="1920" height="1046" />
+    </state>
+    <state x="946" y="11" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1046@0.0.1920.1046" timestamp="1579900331314" />
+    <state x="946" y="45" width="840" height="1034" key="search.everywhere.popup/0.34.1920.1046@0.34.1920.1046" timestamp="1580089579870" />
   </component>
 </project>
